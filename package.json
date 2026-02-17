@@ -1,6 +1,6 @@
 {
   "name": "adr-system",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "type": "module",
   "description": "Bootstrap an Architecture Decision Records system with MADR templates, log4brains compatibility, scoped domains, and Claude Code commands.",
   "bin": {
