@@ -1,0 +1,33 @@
+{
+  "name": "adr-system",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Bootstrap an Architecture Decision Records system with MADR templates, log4brains compatibility, scoped domains, and Claude Code commands.",
+  "bin": {
+    "adr-system": "./bin/cli.js"
+  },
+  "keywords": [
+    "adr",
+    "architecture-decision-records",
+    "madr",
+    "log4brains",
+    "monorepo",
+    "claude-code",
+    "bmad",
+    "speckit"
+  ],
+  "author": "Thibaud Canaud",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tcanaud/adr-system.git"
+  },
+  "files": [
+    "bin/",
+    "src/",
+    "templates/"
+  ],
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
